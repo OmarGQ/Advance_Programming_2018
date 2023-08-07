@@ -1,0 +1,14 @@
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\calculadora\calculadora\bin\Debug\calculadora.exe.config
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\calculadora\calculadora\bin\Debug\calculadora.exe
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\calculadora\calculadora\bin\Debug\calculadora.pdb
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\calculadora\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\calculadora\calculadora\obj\Debug\calculadora.exe
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\Users\Omar xv\Desktop\U1_ACT4_15300515\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\Omar xv\Desktop\U1_ACT4_15300515\calculadora\bin\Debug\calculadora.exe
+C:\Users\Omar xv\Desktop\U1_ACT4_15300515\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Omar xv\Desktop\U1_ACT4_15300515\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+C:\Users\Omar xv\Desktop\U1_ACT4_15300515\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Omar xv\Desktop\U1_ACT4_15300515\calculadora\obj\Debug\calculadora.exe
+C:\Users\Omar xv\Desktop\U1_ACT4_15300515\calculadora\obj\Debug\calculadora.pdb

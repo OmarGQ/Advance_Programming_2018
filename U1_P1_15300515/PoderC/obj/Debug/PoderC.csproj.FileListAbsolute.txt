@@ -1,0 +1,7 @@
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\PoderC\PoderC\bin\Debug\PoderC.exe.config
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\PoderC\PoderC\bin\Debug\PoderC.exe
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\PoderC\PoderC\bin\Debug\PoderC.pdb
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\PoderC\PoderC\obj\Debug\PoderC.csprojAssemblyReference.cache
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\PoderC\PoderC\obj\Debug\PoderC.csproj.CoreCompileInputs.cache
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\PoderC\PoderC\obj\Debug\PoderC.exe
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\PoderC\PoderC\obj\Debug\PoderC.pdb

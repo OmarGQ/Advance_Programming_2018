@@ -1,0 +1,14 @@
+C:\Users\Omar xv\Desktop\lambda\lambda\bin\Debug\lambda.exe.config
+C:\Users\Omar xv\Desktop\lambda\lambda\bin\Debug\lambda.exe
+C:\Users\Omar xv\Desktop\lambda\lambda\bin\Debug\lambda.pdb
+C:\Users\Omar xv\Desktop\lambda\lambda\obj\Debug\lambda.csprojAssemblyReference.cache
+C:\Users\Omar xv\Desktop\lambda\lambda\obj\Debug\lambda.csproj.CoreCompileInputs.cache
+C:\Users\Omar xv\Desktop\lambda\lambda\obj\Debug\lambda.exe
+C:\Users\Omar xv\Desktop\lambda\lambda\obj\Debug\lambda.pdb
+I:\escuela\7° semestre\Programacion avanzada\U2_T5_15300515\lambda\bin\Debug\lambda.exe.config
+I:\escuela\7° semestre\Programacion avanzada\U2_T5_15300515\lambda\bin\Debug\lambda.exe
+I:\escuela\7° semestre\Programacion avanzada\U2_T5_15300515\lambda\bin\Debug\lambda.pdb
+I:\escuela\7° semestre\Programacion avanzada\U2_T5_15300515\lambda\obj\Debug\lambda.csprojAssemblyReference.cache
+I:\escuela\7° semestre\Programacion avanzada\U2_T5_15300515\lambda\obj\Debug\lambda.csproj.CoreCompileInputs.cache
+I:\escuela\7° semestre\Programacion avanzada\U2_T5_15300515\lambda\obj\Debug\lambda.exe
+I:\escuela\7° semestre\Programacion avanzada\U2_T5_15300515\lambda\obj\Debug\lambda.pdb

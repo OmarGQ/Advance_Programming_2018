@@ -1,0 +1,48 @@
+C:\Users\Omar xv\source\repos\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\Omar xv\source\repos\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Omar xv\source\repos\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Omar xv\source\repos\calculadora\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+C:\Users\Omar xv\source\repos\calculadora\calculadora\obj\Debug\MainWindow.g.cs
+C:\Users\Omar xv\source\repos\calculadora\calculadora\obj\Debug\App.g.cs
+C:\Users\Omar xv\source\repos\calculadora\calculadora\obj\Debug\calculadora_MarkupCompile.cache
+C:\Users\Omar xv\source\repos\calculadora\calculadora\obj\Debug\calculadora_MarkupCompile.lref
+C:\Users\Omar xv\source\repos\calculadora\calculadora\obj\Debug\MainWindow.baml
+C:\Users\Omar xv\source\repos\calculadora\calculadora\obj\Debug\calculadora.g.resources
+C:\Users\Omar xv\source\repos\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\Omar xv\source\repos\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\Omar xv\source\repos\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Omar xv\source\repos\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\Omar xv\source\repos\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\Users\Omar xv\source\repos\calculadora\calculadora\obj\Debug\App.baml
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\calculadora\calculadora\bin\Debug\calculadora.exe.config
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\calculadora\calculadora\bin\Debug\calculadora.exe
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\calculadora\calculadora\bin\Debug\calculadora.pdb
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\calculadora\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\calculadora\calculadora\obj\Debug\MainWindow.g.cs
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\calculadora\calculadora\obj\Debug\App.g.cs
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\calculadora\calculadora\obj\Debug\calculadora_MarkupCompile.cache
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\calculadora\calculadora\obj\Debug\calculadora_MarkupCompile.lref
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\calculadora\calculadora\obj\Debug\App.baml
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\calculadora\calculadora\obj\Debug\MainWindow.baml
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\calculadora\calculadora\obj\Debug\calculadora.g.resources
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\calculadora\calculadora\obj\Debug\calculadora.exe
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\calculadora\calculadora\obj\Debug\calculadora.pdb
+I:\escuela\7° semestre\Programacion avanzada\P2_EXP_15300515\calculadora\bin\Debug\calculadora.exe.config
+I:\escuela\7° semestre\Programacion avanzada\P2_EXP_15300515\calculadora\bin\Debug\calculadora.exe
+I:\escuela\7° semestre\Programacion avanzada\P2_EXP_15300515\calculadora\bin\Debug\calculadora.pdb
+I:\escuela\7° semestre\Programacion avanzada\P2_EXP_15300515\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+I:\escuela\7° semestre\Programacion avanzada\P2_EXP_15300515\calculadora\obj\Debug\MainWindow.g.cs
+I:\escuela\7° semestre\Programacion avanzada\P2_EXP_15300515\calculadora\obj\Debug\App.g.cs
+I:\escuela\7° semestre\Programacion avanzada\P2_EXP_15300515\calculadora\obj\Debug\calculadora_MarkupCompile.cache
+I:\escuela\7° semestre\Programacion avanzada\P2_EXP_15300515\calculadora\obj\Debug\calculadora_MarkupCompile.lref
+I:\escuela\7° semestre\Programacion avanzada\P2_EXP_15300515\calculadora\obj\Debug\App.baml
+I:\escuela\7° semestre\Programacion avanzada\P2_EXP_15300515\calculadora\obj\Debug\MainWindow.baml
+I:\escuela\7° semestre\Programacion avanzada\P2_EXP_15300515\calculadora\obj\Debug\calculadora.g.resources
+I:\escuela\7° semestre\Programacion avanzada\P2_EXP_15300515\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+I:\escuela\7° semestre\Programacion avanzada\P2_EXP_15300515\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+I:\escuela\7° semestre\Programacion avanzada\P2_EXP_15300515\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+I:\escuela\7° semestre\Programacion avanzada\P2_EXP_15300515\calculadora\obj\Debug\calculadora.exe
+I:\escuela\7° semestre\Programacion avanzada\P2_EXP_15300515\calculadora\obj\Debug\calculadora.pdb

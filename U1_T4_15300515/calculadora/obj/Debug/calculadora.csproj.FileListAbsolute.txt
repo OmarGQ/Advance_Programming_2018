@@ -1,0 +1,21 @@
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\calculadora\calculadora\bin\Debug\calculadora.exe.config
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\calculadora\calculadora\bin\Debug\calculadora.exe
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\calculadora\calculadora\bin\Debug\calculadora.pdb
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\calculadora\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\calculadora\calculadora\obj\Debug\calculadora.exe
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\Users\Alumnos\Desktop\calculadora-20180904T151959Z-001\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\Alumnos\Desktop\calculadora-20180904T151959Z-001\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Alumnos\Desktop\calculadora-20180904T151959Z-001\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Alumnos\Desktop\calculadora-20180904T151959Z-001\calculadora\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+C:\Users\Alumnos\Desktop\calculadora-20180904T151959Z-001\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\calculadora-20180904T151959Z-001\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\Alumnos\Desktop\calculadora-20180904T151959Z-001\calculadora\calculadora\obj\Debug\calculadora.pdb
+I:\escuela\7° semestre\Programacion avanzada\1°\U1_T4_15300515\calculadora\bin\Debug\calculadora.exe.config
+I:\escuela\7° semestre\Programacion avanzada\1°\U1_T4_15300515\calculadora\bin\Debug\calculadora.exe
+I:\escuela\7° semestre\Programacion avanzada\1°\U1_T4_15300515\calculadora\bin\Debug\calculadora.pdb
+I:\escuela\7° semestre\Programacion avanzada\1°\U1_T4_15300515\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+I:\escuela\7° semestre\Programacion avanzada\1°\U1_T4_15300515\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+I:\escuela\7° semestre\Programacion avanzada\1°\U1_T4_15300515\calculadora\obj\Debug\calculadora.exe
+I:\escuela\7° semestre\Programacion avanzada\1°\U1_T4_15300515\calculadora\obj\Debug\calculadora.pdb

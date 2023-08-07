@@ -1,0 +1,22 @@
+F:\Documents\7\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+F:\Documents\7\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+F:\Documents\7\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+F:\Documents\7\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+F:\Documents\7\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+F:\Documents\7\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csprojAssemblyReference.cache
+F:\Documents\7\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\Documents\7\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\Documents\7\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+F:\Documents\7\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+F:\Documents\7\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\U1_ACT3_15300515\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\U1_ACT3_15300515\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\U1_ACT3_15300515\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\U1_ACT3_15300515\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\U1_ACT3_15300515\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\U1_ACT3_15300515\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csprojAssemblyReference.cache
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\U1_ACT3_15300515\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\U1_ACT3_15300515\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\U1_ACT3_15300515\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\U1_ACT3_15300515\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\U1_ACT3_15300515\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb

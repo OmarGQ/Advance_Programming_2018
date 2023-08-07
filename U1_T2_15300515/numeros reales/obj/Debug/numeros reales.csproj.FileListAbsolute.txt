@@ -1,0 +1,14 @@
+C:\Users\Omar xv\source\repos\numeros reales\numeros reales\bin\Debug\numeros reales.exe.config
+C:\Users\Omar xv\source\repos\numeros reales\numeros reales\bin\Debug\numeros reales.exe
+C:\Users\Omar xv\source\repos\numeros reales\numeros reales\bin\Debug\numeros reales.pdb
+C:\Users\Omar xv\source\repos\numeros reales\numeros reales\obj\Debug\numeros reales.csprojAssemblyReference.cache
+C:\Users\Omar xv\source\repos\numeros reales\numeros reales\obj\Debug\numeros reales.csproj.CoreCompileInputs.cache
+C:\Users\Omar xv\source\repos\numeros reales\numeros reales\obj\Debug\numeros reales.exe
+C:\Users\Omar xv\source\repos\numeros reales\numeros reales\obj\Debug\numeros reales.pdb
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\numeros reales\numeros reales\bin\Debug\numeros reales.exe.config
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\numeros reales\numeros reales\bin\Debug\numeros reales.exe
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\numeros reales\numeros reales\bin\Debug\numeros reales.pdb
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\numeros reales\numeros reales\obj\Debug\numeros reales.csprojAssemblyReference.cache
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\numeros reales\numeros reales\obj\Debug\numeros reales.csproj.CoreCompileInputs.cache
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\numeros reales\numeros reales\obj\Debug\numeros reales.exe
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\numeros reales\numeros reales\obj\Debug\numeros reales.pdb

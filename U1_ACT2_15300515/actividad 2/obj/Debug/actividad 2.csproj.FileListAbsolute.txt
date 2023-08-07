@@ -1,0 +1,7 @@
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\actividad 2\actividad 2\bin\Debug\actividad 2.exe.config
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\actividad 2\actividad 2\bin\Debug\actividad 2.exe
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\actividad 2\actividad 2\bin\Debug\actividad 2.pdb
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\actividad 2\actividad 2\obj\Debug\actividad 2.csprojAssemblyReference.cache
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\actividad 2\actividad 2\obj\Debug\actividad 2.csproj.CoreCompileInputs.cache
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\actividad 2\actividad 2\obj\Debug\actividad 2.exe
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\actividad 2\actividad 2\obj\Debug\actividad 2.pdb

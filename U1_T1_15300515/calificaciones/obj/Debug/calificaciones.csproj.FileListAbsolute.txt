@@ -1,0 +1,21 @@
+F:\Documents\calificaciones\calificaciones\calificaciones\bin\Debug\calificaciones.exe.config
+F:\Documents\calificaciones\calificaciones\calificaciones\bin\Debug\calificaciones.exe
+F:\Documents\calificaciones\calificaciones\calificaciones\bin\Debug\calificaciones.pdb
+F:\Documents\calificaciones\calificaciones\calificaciones\obj\Debug\calificaciones.csprojAssemblyReference.cache
+F:\Documents\calificaciones\calificaciones\calificaciones\obj\Debug\calificaciones.csproj.CoreCompileInputs.cache
+F:\Documents\calificaciones\calificaciones\calificaciones\obj\Debug\calificaciones.exe
+F:\Documents\calificaciones\calificaciones\calificaciones\obj\Debug\calificaciones.pdb
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\calificaciones\calificaciones\bin\Debug\calificaciones.exe.config
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\calificaciones\calificaciones\bin\Debug\calificaciones.exe
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\calificaciones\calificaciones\bin\Debug\calificaciones.pdb
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\calificaciones\calificaciones\obj\Debug\calificaciones.csprojAssemblyReference.cache
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\calificaciones\calificaciones\obj\Debug\calificaciones.csproj.CoreCompileInputs.cache
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\calificaciones\calificaciones\obj\Debug\calificaciones.exe
+D:\Omar xv\drive\escuela\7 semestre\Programacion avanzada\calificaciones\calificaciones\obj\Debug\calificaciones.pdb
+I:\escuela\7° semestre\Programacion avanzada\1°\U1_T1_15300515\calificaciones\bin\Debug\calificaciones.exe.config
+I:\escuela\7° semestre\Programacion avanzada\1°\U1_T1_15300515\calificaciones\bin\Debug\calificaciones.exe
+I:\escuela\7° semestre\Programacion avanzada\1°\U1_T1_15300515\calificaciones\bin\Debug\calificaciones.pdb
+I:\escuela\7° semestre\Programacion avanzada\1°\U1_T1_15300515\calificaciones\obj\Debug\calificaciones.csprojAssemblyReference.cache
+I:\escuela\7° semestre\Programacion avanzada\1°\U1_T1_15300515\calificaciones\obj\Debug\calificaciones.csproj.CoreCompileInputs.cache
+I:\escuela\7° semestre\Programacion avanzada\1°\U1_T1_15300515\calificaciones\obj\Debug\calificaciones.exe
+I:\escuela\7° semestre\Programacion avanzada\1°\U1_T1_15300515\calificaciones\obj\Debug\calificaciones.pdb

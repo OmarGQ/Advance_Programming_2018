@@ -1,0 +1,32 @@
+C:\Users\Omar xv\Desktop\mi boton (solo mio)\mi boton (solo mio)\bin\Debug\mi boton (solo mio).exe.config
+C:\Users\Omar xv\Desktop\mi boton (solo mio)\mi boton (solo mio)\bin\Debug\mi boton (solo mio).exe
+C:\Users\Omar xv\Desktop\mi boton (solo mio)\mi boton (solo mio)\bin\Debug\mi boton (solo mio).pdb
+C:\Users\Omar xv\Desktop\mi boton (solo mio)\mi boton (solo mio)\obj\Debug\mi boton (solo mio).csprojAssemblyReference.cache
+C:\Users\Omar xv\Desktop\mi boton (solo mio)\mi boton (solo mio)\obj\Debug\MainWindow.g.cs
+C:\Users\Omar xv\Desktop\mi boton (solo mio)\mi boton (solo mio)\obj\Debug\App.g.cs
+C:\Users\Omar xv\Desktop\mi boton (solo mio)\mi boton (solo mio)\obj\Debug\mi boton (solo mio)_MarkupCompile.cache
+C:\Users\Omar xv\Desktop\mi boton (solo mio)\mi boton (solo mio)\obj\Debug\mi boton (solo mio)_MarkupCompile.lref
+C:\Users\Omar xv\Desktop\mi boton (solo mio)\mi boton (solo mio)\obj\Debug\App.baml
+C:\Users\Omar xv\Desktop\mi boton (solo mio)\mi boton (solo mio)\obj\Debug\MainWindow.baml
+C:\Users\Omar xv\Desktop\mi boton (solo mio)\mi boton (solo mio)\obj\Debug\mi boton (solo mio).g.resources
+C:\Users\Omar xv\Desktop\mi boton (solo mio)\mi boton (solo mio)\obj\Debug\mi_boton__solo_mio_.Properties.Resources.resources
+C:\Users\Omar xv\Desktop\mi boton (solo mio)\mi boton (solo mio)\obj\Debug\mi boton (solo mio).csproj.GenerateResource.cache
+C:\Users\Omar xv\Desktop\mi boton (solo mio)\mi boton (solo mio)\obj\Debug\mi boton (solo mio).csproj.CoreCompileInputs.cache
+C:\Users\Omar xv\Desktop\mi boton (solo mio)\mi boton (solo mio)\obj\Debug\mi boton (solo mio).exe
+C:\Users\Omar xv\Desktop\mi boton (solo mio)\mi boton (solo mio)\obj\Debug\mi boton (solo mio).pdb
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\U2_P2_15300515\mi boton (solo mio)\bin\Debug\mi boton (solo mio).exe.config
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\U2_P2_15300515\mi boton (solo mio)\bin\Debug\mi boton (solo mio).exe
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\U2_P2_15300515\mi boton (solo mio)\bin\Debug\mi boton (solo mio).pdb
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\U2_P2_15300515\mi boton (solo mio)\obj\Debug\mi boton (solo mio).csprojAssemblyReference.cache
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\U2_P2_15300515\mi boton (solo mio)\obj\Debug\MainWindow.g.cs
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\U2_P2_15300515\mi boton (solo mio)\obj\Debug\App.g.cs
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\U2_P2_15300515\mi boton (solo mio)\obj\Debug\mi boton (solo mio)_MarkupCompile.cache
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\U2_P2_15300515\mi boton (solo mio)\obj\Debug\mi boton (solo mio)_MarkupCompile.lref
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\U2_P2_15300515\mi boton (solo mio)\obj\Debug\App.baml
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\U2_P2_15300515\mi boton (solo mio)\obj\Debug\MainWindow.baml
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\U2_P2_15300515\mi boton (solo mio)\obj\Debug\mi boton (solo mio).g.resources
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\U2_P2_15300515\mi boton (solo mio)\obj\Debug\mi_boton__solo_mio_.Properties.Resources.resources
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\U2_P2_15300515\mi boton (solo mio)\obj\Debug\mi boton (solo mio).csproj.GenerateResource.cache
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\U2_P2_15300515\mi boton (solo mio)\obj\Debug\mi boton (solo mio).csproj.CoreCompileInputs.cache
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\U2_P2_15300515\mi boton (solo mio)\obj\Debug\mi boton (solo mio).exe
+D:\Omar xv\drive\escuela\7° semestre\Programacion avanzada\U2_P2_15300515\mi boton (solo mio)\obj\Debug\mi boton (solo mio).pdb
